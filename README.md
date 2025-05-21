@@ -1,7 +1,7 @@
 # 🎥 Python Video Downloader
 
 A simple and efficient Python-based video downloader that allows you to download videos from popular streaming platforms (like YouTube) with just a few lines of code. This project is ideal for educational use, personal offline viewing, and development practice.
-https://www.justalternativeto.com/contact/
+
 ---
 
 ## 🚀 Features
@@ -13,7 +13,7 @@ https://www.justalternativeto.com/contact/
 - Lightweight and fast
 
 ---
-
+https://www.justalternativeto.com/contact/
 ## 📦 Requirements
 
 Make sure you have Python 3.6+ installed.
